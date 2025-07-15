@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/JDIDEK">
-    <img src="https://github-profile-trophy.vercel.app/?username=JDIDEK&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</p>
-
 <h1 align="center">Hey, I'm Josselin DIDEK (JDIDEK)</h1>
 <h3 align="center">A passionate developer turning concepts into digital reality, from backend to frontend.</h3>
 
