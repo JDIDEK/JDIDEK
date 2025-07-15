@@ -42,11 +42,6 @@
 
 ---
 
-### ✍️ My Latest Posts (or Projects)
-
-*Looking for my latest contributions...*
----
-
 ### 💡 Quote of the Day
 
 <p align="center">
