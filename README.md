@@ -9,6 +9,19 @@
 
 ---
 
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/JDIDEK">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=JDIDEK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Josselin DIDEK's GitHub Stats" />
+  </a>
+  <a href="https://github.com/JDIDEK">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDIDEK&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Josselin DIDEK's Top Languages" />
+  </a>
+</p>
+
+---
+
 ### 🚀 My Tech Stack
 
 <p align="center">
