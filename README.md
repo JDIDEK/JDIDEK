@@ -52,7 +52,7 @@
 
 <p align="center">
   <i>
-    "Code is like humor. When you have to explain it, it’s bad." – Cory House
+    “Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth.” ― Fyodor Dostoevsky, Crime and Punishment 
     </i>
 </p>
 
