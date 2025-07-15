@@ -35,7 +35,7 @@
 ### 👨‍💻 My Recent GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/JDIDEK/NOM_DU_REPO_1">
+  <a href="https://github.com/JDIDEK/DFinance">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDIDEK&repo=DFinance&theme=tokyonight&hide_border=true" alt="Repo Card 1"/>
   </a>
 </p>
