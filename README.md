@@ -4,26 +4,8 @@
   </a>
 </p>
 
-<h1 align="center">Hey, I'm [Ton Nom] - Welcome to my Dev Dashboard</h1>
+<h1 align="center">Hey, I'm Josselin DIDEK - Welcome to my Dev Dashboard</h1>
 <h3 align="center">A passionate Full-Stack Developer crafting solutions from backend logic to frontend magic.</h3>
-
----
-
-### 📊 **My GitHub Stats: A Data-Driven Overview**
-
-<p align="center">
-  <a href="https://github.com/[TON_NOM_UTILISATEUR]">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=[TON_NOM_UTILISATEUR]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="[TON_NOM_UTILISATEUR]'s GitHub Stats" />
-  </a>
-  <a href="https://github.com/[TON_NOM_UTILISATEUR]">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_NOM_UTILISATEUR]&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="[TON_NOM_UTILISATEUR]'s Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://wakatime.com/@_your_wakatime_username_">
-    <img width="98%" src="https://github-readme-stats.vercel.app/api/wakatime?username=[TON_NOM_WAKATIME]&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
-  </a>
-</p>
 
 ---
 
