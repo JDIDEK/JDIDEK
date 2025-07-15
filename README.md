@@ -4,12 +4,12 @@
   </a>
 </p>
 
-<h1 align="center">Bonjour, je suis Josselin DIDEK (JDIDEK)</h1>
-<h3 align="center">Développeur passionné, je transforme des concepts en réalité numérique, du backend au frontend.</h3>
+<h1 align="center">Hey, I'm Josselin DIDEK (JDIDEK)</h1>
+<h3 align="center">A passionate developer turning concepts into digital reality, from backend to frontend.</h3>
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 📊 My GitHub Stats
 
 <p align="center">
   <a href="https://github.com/JDIDEK">
@@ -22,33 +22,33 @@
 
 ---
 
-### 🚀 Mon Arsenal Technologique
+### 🚀 My Tech Stack
 
 <p align="center">
-  <a href="#-mon-arsenal-technologique">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vuejs,nextjs,tailwind" alt="Compétences Frontend"/>
+  <a href="#-my-tech-stack">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vuejs,nextjs,tailwind" alt="Frontend Skills"/>
   </a>
-  <a href="#-mon-arsenal-technologique">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,c++" alt="Compétences Backend"/>
+  <a href="#-my-tech-stack">
+    <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,c++" alt="Backend Skills"/>
   </a>
-  <a href="#-mon-arsenal-technologique">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Outils"/>
+  <a href="#-my-tech-stack">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Mon Activité Récente sur GitHub
+### 👨‍💻 My Recent GitHub Activity
 
-*Récupération de ma dernière activité...*
+*Fetching my latest activity...*
 ---
 
-### ✍️ Mes Derniers Articles (ou Projets)
+### ✍️ My Latest Posts (or Projects)
 
-*À la recherche de mes dernières contributions...*
+*Looking for my latest contributions...*
 ---
 
-### 💡 Citation du Jour
+### 💡 Quote of the Day
 
 <p align="center">
   <i>
@@ -58,10 +58,10 @@
 
 ---
 
-### 📫 Me Contacter
+### 📫 How to Reach Me
 
 <p align="center">
-  <a href="URL_DE_TON_PROFIL_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TON_ADRESSE_EMAIL"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="URL_DE_TON_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://www.linkedin.com/in/josselin-didek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:joss.ddk@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.josselindidek.com/"><img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 </p>
