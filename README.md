@@ -32,7 +32,7 @@
 
 ---
 
-### 📌 My Pinned Projects
+### 👨‍💻 My Recent GitHub Activity
 
 <p align="center">
   <a href="https://github.com/JDIDEK/NOM_DU_REPO_1">
@@ -40,11 +40,6 @@
   </a>
 </p>
 
----
-
-### 👨‍💻 My Recent GitHub Activity
-
-*Fetching my latest activity...*
 ---
 
 ### ✍️ My Latest Posts (or Projects)
