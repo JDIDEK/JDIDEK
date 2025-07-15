@@ -32,6 +32,19 @@
 
 ---
 
+### 📌 My Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/JDIDEK/NOM_DU_REPO_1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDIDEK&repo=NOM_DU_REPO_1&theme=tokyonight&hide_border=true" alt="Repo Card 1"/>
+  </a>
+  <a href="https://github.com/JDIDEK/NOM_DU_REPO_2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDIDEK&repo=NOM_DU_REPO_2&theme=tokyonight&hide_border=true" alt="Repo Card 2"/>
+  </a>
+</p>
+
+---
+
 ### 👨‍💻 My Recent GitHub Activity
 
 *Fetching my latest activity...*
@@ -46,7 +59,7 @@
 
 <p align="center">
   <i>
-    “Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth.” ― Fyodor Dostoevsky, Crime and Punishment 
+    “Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth.” ― Fyodor Dostoevsky, Crime and Punishment
     </i>
 </p>
 
