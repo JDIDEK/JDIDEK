@@ -1,61 +1,62 @@
-<h1 align="center">Hey, I'm Josselin DIDEK (JDIDEK)</h1>
-<h3 align="center">A passionate developer turning concepts into digital reality, from backend to frontend.</h3>
+<div align="center">
+
+![Banner](./images/banner.svg)
+
+</div>
+
+<br/>
+
+```
+Hello · Bonjour · Hola · こんにちは · 你好 · Ciao
+```
+
+<br/>
+
+I build digital experiences from the ground up — from architecture to the last pixel on screen.  
+I care about structure, rhythm, and finish equally. Minimalist by conviction, detail-driven by practice.
+
+<br/>
 
 ---
 
-### 📊 My GitHub Stats
+### Stack
 
-<p align="center">
-  <a href="https://github.com/JDIDEK">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=JDIDEK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Josselin DIDEK's GitHub Stats" />
-  </a>
-  <a href="https://github.com/JDIDEK">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDIDEK&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Josselin DIDEK's Top Languages" />
-  </a>
-</p>
-
----
-
-### 🚀 My Tech Stack
-
-<p align="center">
-  <a href="#-my-tech-stack">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vuejs,nextjs,tailwind" alt="Frontend Skills"/>
-  </a>
-  <a href="#-my-tech-stack">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,c++" alt="Backend Skills"/>
-  </a>
-  <a href="#-my-tech-stack">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools"/>
-  </a>
-</p>
+| Layer | Technologies |
+|---|---|
+| **Frontend** | Next.js · React · TypeScript · Tailwind CSS · GraphQL |
+| **Animation** | GSAP · Framer Motion · Three.js |
+| **Backend** | Node.js · Express · tRPC · REST APIs · Python |
+| **Database** | PostgreSQL · MongoDB · Firebase · Prisma |
+| **Infra** | Docker · Vercel · Stripe · Sanity CMS |
+| **Tooling** | Figma · Git · Playwright · Postman |
 
 ---
 
-### 👨‍💻 My Recent GitHub Activity
+### Services
 
-<p align="center">
-  <a href="https://github.com/JDIDEK/DFinance">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDIDEK&repo=DFinance&theme=tokyonight&hide_border=true" alt="Repo Card 1"/>
-  </a>
-</p>
+```
+Landing page  ·  Product UI  ·  Frontend development  ·  Design to code  ·  Maintenance
+```
 
 ---
 
-### 💡 Quote of the Day
+### Currently
 
-<p align="center">
-  <i>
-    “Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth.” ― Fyodor Dostoevsky, Crime and Punishment
-    </i>
-</p>
+- Building purposeful interfaces for clients
+- Exploring tools shaping what comes next
+- Continuous learning — part of the work, part of what keeps it exciting
 
 ---
 
-### 📫 How to Reach Me
+### Let's work together
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/josselin-didek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:joss.ddk@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.josselindidek.com/"><img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=typescript&logoColor=61DAFB"/></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/josselindidek.com-000000?style=flat-square&logo=safari&logoColor=white)](https://www.josselindidek.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josselindidek/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nilessojj/)
+[![Email](https://img.shields.io/badge/contact@didev.fr-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@didev.fr)
+
+<br/>
+
+<div align="right">
+  <sub>© 2026 Josselin DIDEK</sub>
+</div>
