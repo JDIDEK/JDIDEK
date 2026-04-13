@@ -35,7 +35,7 @@ I care about structure, rhythm, and finish equally. Minimalist by conviction, de
 ### Services
 
 ```
-Landing page  ·  Product UI  ·  Frontend development  ·  Design to code  ·  Maintenance
+Landing page  ·  Product UI  ·  Full-Stack development  ·  Design to code  ·  Maintenance
 ```
 
 ---
